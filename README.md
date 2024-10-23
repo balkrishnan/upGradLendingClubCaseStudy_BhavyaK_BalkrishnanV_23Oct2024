@@ -37,6 +37,8 @@ In other words, the company wants to understand the driving factors (or driver v
 - Matplotlib
 
 ## Proposals to Lending Club's Management Team
+>> The strong correlation between pub_rec and pub_rec_bankruptcies implies that bankruptcy is a significant factor in public records. More attention should be given to customers with a history of public records or bankruptcies when evaluating loan risk.
+
 >> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
 
 >> LC management must review their policies on why these three sub-grade loans, ‘B3’, ‘B4’ and ‘B5’, are mostly defaulted.
