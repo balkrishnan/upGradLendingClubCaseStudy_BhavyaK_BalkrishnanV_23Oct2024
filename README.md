@@ -36,7 +36,7 @@ In other words, the company wants to understand the driving factors (or driver v
 - Seaborn
 - Matplotlib
 
-## Proposals to Lending Club's Management Team
+## Extract-Of-Proposals to Lending Club's Management Team (more in presentation)
 >> The strong correlation between pub_rec and pub_rec_bankruptcies implies that bankruptcy is a significant factor in public records. More attention should be given to customers with a history of public records or bankruptcies when evaluating loan risk.
 
 >> Moderate correlations between DTI, revolving balances, and revolving utilization suggest borrowers should manage their overall debt load and credit utilization better to avoid high-interest rates.
