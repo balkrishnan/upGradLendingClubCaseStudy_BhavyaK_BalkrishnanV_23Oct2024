@@ -43,6 +43,8 @@ In other words, the company wants to understand the driving factors (or driver v
 
 >> Higher revolving balances increase revolving utilization, which can affect the borrower’s credit score and loan approval chances. Lenders could offer proactive tools like alerts for high revolving balances or recommend setting up automatic payments to maintain utilization below 30% for optimal credit health.
 
+>> Borrowers with high credit utilization tend to face higher interest rates. Lenders could encourage these borrowers to lower their utilization by offering credit line reductions, balance transfer options, or lower interest rates for accounts with reduced utilization, helping reduce the overall risk.
+
 >> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
 
 >> LC management must review their policies on why these three sub-grade loans, ‘B3’, ‘B4’ and ‘B5’, are mostly defaulted.
