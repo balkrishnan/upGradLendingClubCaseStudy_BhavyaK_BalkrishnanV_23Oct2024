@@ -1,7 +1,6 @@
 ## LendingClubCase_upGrad_BhavyaKapoor_BalkrishnanVenkiteswaran
 ============================================================================================
 # Lending Club Case Study
-Details of the Project Objectives are available in this link: https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761
 
 
 ## Table of Contents
@@ -9,6 +8,15 @@ Details of the Project Objectives are available in this link: https://learn.upgr
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+
+## General Information
+- Provide general information about your project here.
+- What is the background of your project?
+- What is the business probem that your project is trying to solve?
+- What is the dataset that is being used?
+
+Details of the Project Objectives are available in this link: https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
