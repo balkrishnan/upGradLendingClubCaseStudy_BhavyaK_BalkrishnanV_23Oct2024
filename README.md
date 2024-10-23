@@ -1,12 +1,12 @@
 ## LendingClubCase_upGrad_BhavyaKapoor_BalkrishnanVenkiteswaran
-============================================================================================
+========================================================================
 # Lending Club Case Study
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Proposals to Lending Club's Management Team](#proposals)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
@@ -36,11 +36,27 @@ In other words, the company wants to understand the driving factors (or driver v
 - Seaborn
 - Matplotlib
 
-## Proposals to Lending Club Management
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Proposals to Lending Club's Management Team
+>> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
+
+>> LC management must review their policies on why these three sub-grade loans, ‘B3’, ‘B4’ and ‘B5’, are mostly defaulted.
+
+>> LC management must verify the financial and vocation credentials of borrowers, especially where higher Installment-Amounts are involved, the feasibility of repayment of installments consistently. 
+
+>> LC management must verify the financial and vocation credentials of borrowers, especially where higher Interest-Rates are involved, the feasibility of repayment of installments.  
+
+>> LC management can offer more loans in medium-interest-rate category due to their popularity and for also positive-closures resulting in profits to LC.  
+
+>> LC management can offer more variety of loans of 36-month period due to higher closure-rate and popularity. This will help increase the profits of LC. 
+
+>> LC management can limit the Loan-Amount values to increase the possibility of FULLY-PAID category. This will help the LC minimize their losses. 
+
+>> LC management must ensure that due-diligence on the borrowers are done based on their Annual-Income to minimize defaults. 
+
+>> LC management could focus on borrowers who are in their first job and make it attractive for them to take loans. This helps LC increase their lending.
+
+## Acknowledgements
+- This project was proposed by [upgrad.com](https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761).
 
 ## Contact
 Created by [bhavyarocks19@gmail.com],[balkrishnan.venkiteswaran@gmail.com] - feel free to contact us!
