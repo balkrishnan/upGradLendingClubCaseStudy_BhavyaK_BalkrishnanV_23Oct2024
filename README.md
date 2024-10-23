@@ -16,9 +16,7 @@
 - What is the dataset that is being used?
 >> Details of the Project Objectives are available in this link: https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761
 
-## Technologies Used
-- Python
-- NumPy
+## Libraries Used
 - Pandas
 - Seaborn
 - Matplotlib
