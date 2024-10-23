@@ -45,8 +45,7 @@ In other words, the company wants to understand the driving factors (or driver v
 
 >> Borrowers with high credit utilization tend to face higher interest rates. LC Management could encourage these borrowers to lower their utilization by offering credit line reductions, balance transfer options, or lower interest rates for accounts with reduced utilization, helping reduce the overall risk.
 
->> LC management must analyze why this trend is observed and take measures to minimize defaulters in each of the grades.
-LC have to check why there are more FULLY-PAID loans in Grades ‘A’, ‘B’ and ‘C’ when compared to other grades.
+>> DEFAULTERS percentage seem to increase from Grade A to G. LC management must analyze why this trend is observed and take measures to minimize defaulters in each of the grades. LC have to check why there are more FULLY-PAID loans in Grades ‘A’, ‘B’ and ‘C’ when compared to other grades.
 
 ## Acknowledgements
 - This project was proposed by [upgrad.com](https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761).
