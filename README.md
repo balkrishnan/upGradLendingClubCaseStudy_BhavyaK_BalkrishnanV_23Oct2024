@@ -36,7 +36,7 @@ In other words, the company wants to understand the driving factors (or driver v
 - Seaborn
 - Matplotlib
 
-## Proposals to Lending Club Management
+## Proposals to Lending Club's Management Team
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
