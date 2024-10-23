@@ -36,7 +36,7 @@ In other words, the company wants to understand the driving factors (or driver v
 - Seaborn
 - Matplotlib
 
-## Proposals to Lending Club's Management Team
+## Extract-Of-Proposals to Lending Club's Management Team (more in presentation)
 >> The strong correlation between pub_rec and pub_rec_bankruptcies implies that bankruptcy is a significant factor in public records. More attention should be given to customers with a history of public records or bankruptcies when evaluating loan risk.
 
 >> Moderate correlations between DTI, revolving balances, and revolving utilization suggest borrowers should manage their overall debt load and credit utilization better to avoid high-interest rates.
@@ -45,23 +45,7 @@ In other words, the company wants to understand the driving factors (or driver v
 
 >> Borrowers with high credit utilization tend to face higher interest rates. LC Management could encourage these borrowers to lower their utilization by offering credit line reductions, balance transfer options, or lower interest rates for accounts with reduced utilization, helping reduce the overall risk.
 
->> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
-
->> LC management must review their policies on why these three sub-grade loans, ‘B3’, ‘B4’ and ‘B5’, are mostly defaulted.
-
->> LC management must verify the financial and vocation credentials of borrowers, especially where higher Installment-Amounts are involved, the feasibility of repayment of installments consistently. 
-
->> LC management must verify the financial and vocation credentials of borrowers, especially where higher Interest-Rates are involved, the feasibility of repayment of installments.  
-
->> LC management can offer more loans in medium-interest-rate category due to their popularity and for also positive-closures resulting in profits to LC.  
-
->> LC management can offer more variety of loans of 36-month period due to higher closure-rate and popularity. This will help increase the profits of LC. 
-
->> LC management can limit the Loan-Amount values to increase the possibility of FULLY-PAID category. This will help the LC minimize their losses. 
-
->> LC management must ensure that due-diligence on the borrowers are done based on their Annual-Income to minimize defaults. 
-
->> LC management could focus on borrowers who are in their first job and make it attractive for them to take loans. This helps LC increase their lending.
+>> DEFAULTERS percentage seem to increase from Grade A to G. LC management must analyze why this trend is observed and take measures to minimize defaulters in each of the grades. LC have to check why there are more FULLY-PAID loans in Grades ‘A’, ‘B’ and ‘C’ when compared to other grades.
 
 ## Acknowledgements
 - This project was proposed by [upgrad.com](https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761).
