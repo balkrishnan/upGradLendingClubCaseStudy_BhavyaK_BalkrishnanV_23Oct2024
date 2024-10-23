@@ -25,7 +25,7 @@ Current: Applicant is in the process of paying the instalments, i.e. the tenure 
 Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 - What is the business probem that your project is trying to solve?
-  >>Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+  >>Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the LC when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the LC Management. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 - What is the dataset that is being used?
@@ -41,9 +41,9 @@ In other words, the company wants to understand the driving factors (or driver v
 
 >> Moderate correlations between DTI, revolving balances, and revolving utilization suggest borrowers should manage their overall debt load and credit utilization better to avoid high-interest rates.
 
->> Higher revolving balances increase revolving utilization, which can affect the borrower’s credit score and loan approval chances. Lenders could offer proactive tools like alerts for high revolving balances or recommend setting up automatic payments to maintain utilization below 30% for optimal credit health.
+>> Higher revolving balances increase revolving utilization, which can affect the borrower’s credit score and loan approval chances. LC could offer proactive tools like alerts for high revolving balances or recommend setting up automatic payments to maintain utilization below 30% for optimal credit health.
 
->> Borrowers with high credit utilization tend to face higher interest rates. Lenders could encourage these borrowers to lower their utilization by offering credit line reductions, balance transfer options, or lower interest rates for accounts with reduced utilization, helping reduce the overall risk.
+>> Borrowers with high credit utilization tend to face higher interest rates. LC Management could encourage these borrowers to lower their utilization by offering credit line reductions, balance transfer options, or lower interest rates for accounts with reduced utilization, helping reduce the overall risk.
 
 >> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
 
