@@ -37,10 +37,19 @@ In other words, the company wants to understand the driving factors (or driver v
 - Matplotlib
 
 ## Proposals to Lending Club's Management Team
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+>> LC management must review their policies on why Grade ‘B’ and ‘C’ loans are mostly defaulted.
+
+>> LC management must review their policies on why these three sub-grade loans, ‘B3’, ‘B4’ and ‘B5’, are mostly defaulted.
+
+>> LC management must verify the financial and vocation credentials of borrowers, especially where higher Installment-Amounts are involved, the feasibility of repayment of installments consistently. 
+
+>> LC management must verify the financial and vocation credentials of borrowers, especially where higher Interest-Rates are involved, the feasibility of repayment of installments.  
+
+>> LC management can offer more loans in medium-interest-rate category due to their popularity and for also positive-closures resulting in profits to LC.  
+
+>> LC management can offer more variety of loans of 36-month period due to higher closure-rate and popularity. This will help increase the profits of LC. 
+
+>> LC management can limit the Loan-Amount values to increase the possibility of FULLY-PAID category. This will help the LC minimize their losses. 
 
 ## Acknowledgements
 - This project was proposed by [upgrad.com](https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761).
