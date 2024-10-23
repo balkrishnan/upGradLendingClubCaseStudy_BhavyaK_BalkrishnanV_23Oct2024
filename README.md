@@ -51,6 +51,10 @@ In other words, the company wants to understand the driving factors (or driver v
 
 >> LC management can limit the Loan-Amount values to increase the possibility of FULLY-PAID category. This will help the LC minimize their losses. 
 
+>> LC management must ensure that due-diligence on the borrowers are done based on their Annual-Income to minimize defaults. 
+
+>> LC management could focus on borrowers who are in their first job and make it attractive for them to take loans. This helps LC increase their lending.
+
 ## Acknowledgements
 - This project was proposed by [upgrad.com](https://learn.upgrad.com/course/5810/segment/54646/325499/985632/4924761).
 
